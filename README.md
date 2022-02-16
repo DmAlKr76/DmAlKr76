@@ -1,4 +1,13 @@
-### Hi there 👋
+# Здравствуй! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />
+
+### Меня зовут Дмитрий, и я прохожу обучение по веб-разработке и DataScience
+
+**Мой технологический стэк:**
+* Fullstack-разработка (Python, JavaScript, React, HTML, CSS)
+* Аналитика (Google sheets, PowerBi, SQL, Pandas)
+* Управление проектами
+
+📫 Связаться со мной: [telegram](https://t.me/albertovich76), [e-mail](glplgr2021@gmail.com)
 
 <!--
 **DmAlKr76/DmAlKr76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
