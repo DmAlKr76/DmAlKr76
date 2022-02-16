@@ -7,7 +7,7 @@
 * Аналитика (Google sheets, PowerBi, SQL, Pandas)
 * Управление проектами
 
-📫 Связаться со мной: [telegram](https://t.me/albertovich76), [e-mail](glplgr2021@gmail.com)
+📫 Связаться со мной: [telegram](https://t.me/albertovich76), [e-mail](mailto:glplgr2021@gmail.com)
 
 <!--
 **DmAlKr76/DmAlKr76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
