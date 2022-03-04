@@ -1,10 +1,12 @@
 # Здравствуй! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />
 
-### Меня зовут Дмитрий, и я прохожу обучение по веб-разработке и DataScience
+### Меня зовут Дмитрий, и я прохожу обучение в различных сферах IT
 
 **Мой технологический стэк:**
 * Fullstack-разработка (Python, JavaScript, React, HTML, CSS)
 * Аналитика (Google sheets, PowerBi, SQL, Pandas)
+* Data-Science
+* Pentest
 * Управление проектами
 
 📫 Связаться со мной: [telegram](https://t.me/albertovich76), [e-mail](mailto:glplgr2021@gmail.com)
