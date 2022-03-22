@@ -3,9 +3,9 @@
 ### Меня зовут Дмитрий, и я прохожу обучение в различных сферах IT
 
 **Мой технологический стэк:**
-* Fullstack-разработка (Python, JavaScript, React, HTML, CSS)
 * Аналитика (Google sheets, PowerBi, SQL, Pandas)
 * Data-Science
+* Fullstack-разработка (Python, JavaScript, React, HTML, CSS)
 * Pentest
 * Управление проектами
 
