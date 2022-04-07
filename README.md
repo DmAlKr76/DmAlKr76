@@ -4,9 +4,10 @@
 
 **Мой технологический стэк:**
 * Аналитика (Google sheets, PowerBi, SQL, Pandas)
-* Data-Science
+* Data-Science (ML)
 * Fullstack-разработка (Python, JavaScript, React, HTML, CSS)
-* Pentest
+* QA (автоматизация тестирования на Python)
+* Pentest (WEB-pentest)
 * Управление проектами
 
 📫 Связаться со мной: [telegram](https://t.me/albertovich76), [e-mail](mailto:glplgr2021@gmail.com)
