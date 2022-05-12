@@ -6,7 +6,7 @@
 * Аналитика (Google sheets, PowerBi, SQL, Pandas)
 * Data-Science (ML)
 * Fullstack-разработка (Python, JavaScript, React, HTML, CSS)
-* QA (автоматизация тестирования на Python)
+* QA (автоматизация тестирования на Python - PyTest, Selenium, PageObject)
 * Pentest (WEB-pentest)
 * Управление проектами
 
