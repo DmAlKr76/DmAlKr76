@@ -4,7 +4,7 @@
 
 **Мой технологический стэк:**
 * Аналитика (Google sheets, PowerBi, SQL, Pandas)
-* Data-Science (ML)
+* Data-Science (EDA, ML)
 * Fullstack-разработка (Python, JavaScript, React, HTML, CSS)
 * QA (автоматизация тестирования на Python - PyTest, Selenium, PageObject)
 * Pentest (WEB-pentest)
