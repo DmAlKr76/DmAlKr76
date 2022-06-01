@@ -2,9 +2,11 @@
 
 ### Меня зовут Дмитрий, и я прохожу обучение в различных сферах IT
 
+### **Карта моих проектов:** [GitHub](https://github.com/DmAlKr76/my_roadmap)
+
 **Мой технологический стэк:**
-* Аналитика (Google sheets, PowerBi, SQL, Pandas)
 * Data-Science (EDA, ML)
+* Аналитика (Google sheets, PowerBi, SQL, Pandas)
 * Fullstack-разработка (Python, JavaScript, React, HTML, CSS)
 * QA (автоматизация тестирования на Python - PyTest, Selenium, PageObject)
 * Pentest (WEB-pentest)
