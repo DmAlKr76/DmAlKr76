@@ -5,7 +5,7 @@
 ### **Карта моих проектов:** [GitHub](https://github.com/DmAlKr76/my_roadmap)
 
 **Мой технологический стэк:**
-* Data-Science (EDA, ML)
+* Data-Science (EDA, ML, NLP)
 * Аналитика (Google sheets, PowerBi, SQL, Pandas)
 * Fullstack-разработка (Python, JavaScript, React, HTML, CSS)
 * QA (автоматизация тестирования на Python - PyTest, Selenium, PageObject)
