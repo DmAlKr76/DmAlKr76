@@ -5,11 +5,11 @@
 ## **Карта моих проектов:** [GitHub](https://github.com/DmAlKr76/my_roadmap)
 
 **Мой технологический стэк:**
-* Data-Science (ML, DL, NN (tensorflow, keras), NLP)
+* Data-Science (ML, DL, NLP)
 * Аналитика (Google sheets, PowerBi, SQL, Pandas)
 * Fullstack-разработка (Python, JavaScript, React)
 * QA (автоматизация тестирования на Python - PyTest, Selenium, PageObject)
 * Pentest (WEB-pentest)
 * Project managment
 
-📫 Связаться со мной: [telegram](https://t.me/albertovich76), [e-mail](mailto:glplgr2021@gmail.com)
+📫 Связаться со мной: [telegram](https://t.me/albertovich7), [e-mail](mailto:glplgr2021@gmail.com)
