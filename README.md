@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20World!&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!%20Here%20are%20my%20study%20and%20pet%20projects&descAlignY=51&descAlign=62)
 
 ## **My name is Dmitriy. I study and work in the fields of analytics and data science**
-## My sudy projects:
+# My study projects:
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DmAlKr76/my_roadmap)
 ************************
 
