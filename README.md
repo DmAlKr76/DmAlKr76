@@ -1,6 +1,6 @@
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello,&fontSize=75&fontAlign=40&animation=fadeIn&fontAlignY=38&desc=welcome%20to%20my%20GitHub%20profile!&descAlignY=53&descAlign=52) -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello,&fontSize=75&fontAlign=40&animation=fadeIn&fontAlignY=38&desc=welcome%20to%20my%20GitHub%20profile!&descAlignY=53&descAlign=52)
 
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hello,&section=header&reversal=false&textBg=false&fontAlign=50&animation=fadeIn&desc=welcome%20to%20my%20GitHub%20profile!&descAlign=50&descSize=25&descAlignY=62&fontColor=000000&fontAlignY=46)
+<!-- ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hello,&section=header&reversal=false&textBg=false&fontAlign=50&animation=fadeIn&desc=welcome%20to%20my%20GitHub%20profile!&descAlign=50&descSize=25&descAlignY=62&fontColor=000000&fontAlignY=46) -->
 
 ### **My name is Dmitry. I work and study in data science and analytics.**
 ### My projects:
