@@ -9,7 +9,7 @@
 
 Начинаю свой день с плавания. Свободное время провожу за изучением новых инструментов и дополнительным образованием.
 
-### Мои проекты в Machine Learning, Data Engineering и Data Analysis и их описание: 
+### Мои проекты в Machine Learning, Data Engineering и Data Analytics: 
 [![GitHub](https://img.shields.io/badge/Click_here-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DmAlKr76/my_roadmap)
 
 ### **Связаться со мной:**
