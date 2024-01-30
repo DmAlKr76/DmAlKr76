@@ -2,14 +2,18 @@
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hello,&section=header&reversal=false&textBg=false&fontAlign=50&animation=fadeIn&desc=welcome%20to%20my%20GitHub%20profile!&descAlign=50&descSize=25&descAlignY=62&fontColor=000000&fontAlignY=46) -->
 
-### **My name is Dmitry. I work and study in data science and analytics.**
-### My projects:
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DmAlKr76/my_roadmap)
+### **Меня зовут Дмитрий. Я работаю и учусь в сфере Data Science.**
+    Многолетний опыт работы Project manager-ом привил мне любовь к анализу и оптимизации процессов, что стало фундаментом для развития в Data Science. 
+    Мне нравится в числах находить зависимости, помогающие развивать продукт. Польза задач для людей и бизнеса меня мотивирует преодолевать сложности, а успехи коллег вдохновляют на непрерывное развитие в профессии. 
+    Начинаю свой день с плавания. Свободное время провожу за изучением новых инструментов и дополнительным образованием.
 
-### **Contact me:**
+### Мои проекты в Machine Learning, Data Engineering и Data Analysis и их описание: 
+[![GitHub](https://img.shields.io/badge/Click_here-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DmAlKr76/my_roadmap)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:glplgr2021@gmail.com) 
+### **Связаться со мной:**
+
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram)](https://t.me/albertovich7)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:glplgr2021@gmail.com) 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/dmitry-kruglov-487b00127)
 
 ***********************
