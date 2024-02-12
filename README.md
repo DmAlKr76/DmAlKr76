@@ -2,7 +2,7 @@
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hello,&section=header&reversal=false&textBg=false&fontAlign=50&animation=fadeIn&desc=welcome%20to%20my%20GitHub%20profile!&descAlign=50&descSize=25&descAlignY=62&fontColor=000000&fontAlignY=46) -->
 
-### **Меня зовут Дмитрий. Я работаю и учусь в сфере Data Science.**
+### **Меня зовут Дмитрий. Я развиваюсь в Data Science с 2022 года.**
 Многолетний опыт работы Project manager-ом привил мне любовь к анализу и оптимизации процессов, что стало фундаментом для развития в Data Science. 
 
 Мне нравится в числах находить зависимости, помогающие развивать продукт. Польза задач для людей и бизнеса меня мотивирует преодолевать сложности, а успехи коллег вдохновляют на непрерывное развитие в профессии. 
